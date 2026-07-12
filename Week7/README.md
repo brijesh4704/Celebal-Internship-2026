@@ -120,7 +120,7 @@ streamlit run app.py
 
 Once the application starts, open your browser and navigate to:
 
-**http://localhost:8504/**
+**http://localhost:8501/**
 
 ---
 
