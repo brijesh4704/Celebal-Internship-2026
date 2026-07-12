@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+cohere>=5.5.8
+pymupdf>=1.24.5
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.1
+langchain>=0.2.11
+langchain-community>=0.2.11
+langchain-text-splitters>=0.2.2
+numpy>=1.26.4
